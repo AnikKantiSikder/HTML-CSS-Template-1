@@ -1,0 +1,233 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.navbar-brand{
+    width: 60px;
+}
+.img-jumbo{
+    margin-top: 55px;
+    background-image: url(../image/wm3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:450px;
+}
+.img-jumbo h1{
+   color: white;
+   font-weight: bolder;
+   position: absolute;
+   font-size: 50px;
+   bottom: 120px;
+   left: 50px;
+}
+.img-jumbo h6{
+    color: white;
+    position: absolute;
+    bottom: 30px;
+    left: 50px;
+    margin-right: 20px;
+    text-align: justify;
+ }
+ .row-three h1{
+     font-weight: bold;
+     font-size: 30px;
+     padding-top: 20px;
+     font-family: sans-serif;
+ }
+ .row-three a h1{
+     color: black;
+     opacity: 0.7;
+ }
+ .row-three a h1:hover{
+     color: black;
+     opacity: 0.9;
+ }
+ .row-three p{
+     text-align: justify;
+     font-family: sans-serif;
+     font-stretch: ultra-condensed;
+     font-size: 18px;
+ }
+ .row-five .child-one{
+     text-align: center;
+     font-family:sans-serif;
+ }
+.row-five .child-one h1{
+    font-weight: bolder;
+}
+.row-five .child-two h4{
+    font-weight: bold;
+    margin-top: 15px;
+}
+.row-five .child-two p{
+    font-family: sans-serif;
+    text-align: left;
+    margin-top: 15px;
+    
+}
+.row-five .child-two .ok{
+    border-bottom: 1px solid lightgrey;
+    border-width: thin;
+}
+.row-five .child-two h4 a{
+    color: black;
+    opacity: 0.7;
+}
+.row-five .child-two h4 a:hover{
+    color: black;
+     opacity: 0.9;
+}
+
+.row-six .child-one h1{
+   text-align: center;
+   font-weight: bolder;
+   font-family: sans-serif;
+   margin-top: 40px;
+}
+.row-six .child-one p{
+    text-align: center;
+    font-family: sans-serif;
+}
+.row-six .child-two .card{
+    height: 400px;
+}
+.row-six .child-two .card{
+    border:1px solid blue;
+    
+}
+.row-six .child-two .card:hover{
+    border: 1px solid black;
+    box-shadow: 10px 5px #888888;
+    transition-duration: 1s;
+    cursor: auto;
+}
+.row-six .child-two .card h5{
+    font-weight: bold;
+}
+.row-six .child-two .card h5 a{
+    color: black;
+    opacity: 0.8;
+}
+.row-six .child-two .card h5 a:hover{
+    color: black;
+    opacity: 0.9;
+}
+.row-seven{
+    font-family: sans-serif;
+    margin-top: 80px;
+    
+}
+.row-seven .child-one{
+    text-align: center;
+    margin-top: 30px;
+}
+.row-seven .child-one h1{
+    font-weight: bolder;
+}
+.row-seven .child-two{
+    margin-top: 30px;
+}
+.row-seven h4 a{
+    font-weight: bold;
+    color: black;
+    opacity: 0.7;
+}
+.row-seven h4 a:hover{
+    opacity: 0.9;
+}
+.row-seven .child-three{
+    margin-top: 30px;
+}
+.row-eight{
+    margin-top: 80px;
+    font-family: sans-serif;
+    
+}
+.row-eight .first-half h2{
+    text-align: center;
+    font-weight: bolder;
+}
+.row-eight .first-half h5{
+    text-align: center;
+}
+.row-eight .second-half h4 a{
+    font-weight: bolder;
+    color: black;
+    opacity: 0.7;
+}
+.row-eight .second-half h4 a:hover{
+    opacity: 0.9;
+}
+.row-nine{
+    margin-top: 80px;
+    font-family: sans-serif;
+}
+.row-nine h1{
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+.row-nine .last-para{
+    text-align: center;
+    margin-top: 20px;
+}
+.row-nine .card-group h5 a{
+    text-decoration: none;
+     color: black;
+     opacity: 0.7;
+}
+.row-nine .card-group h5 a:hover{
+    opacity: 0.9;
+}
+.row-ten{
+    text-align: center;
+    margin-top: 80px;
+}
+.row-ten h1{
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+.row-ten .child-two .card-group .card{
+    margin-right: 3px;
+
+}
+.row-ten .child-two .card{
+    opacity: 0.9;
+}
+.row-ten .child-two .card:hover{
+    opacity: 0.7;
+    transition-duration: 4s;
+}
+.row-eleven{
+    text-align: center;
+    margin-top: 40px;
+}
+.row-footer{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.row-footer .child-one{
+    padding: 20px;
+    background-color: grey;
+}
+.row-footer .child-one h3{
+    font-weight: bolder;
+}
+.row-footer .child-two{
+    background-color: #3f3838;
+    padding: 50px;
+}
+.row-footer .child-two a h5{
+    color: white;
+    display: inline;
+    margin-right: 15px;
+}
+.row-footer .child-two a h6{
+    color: white;
+    display: inline;
+    margin-right: 15px;
+}
+.row-footer .child-two a{
+    text-decoration: none;
+}
